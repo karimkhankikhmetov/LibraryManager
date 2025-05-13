@@ -18,10 +18,12 @@ Student: Can borrow and return books
 
 Teacher: Can borrow, return, add, and remove books
 
-Classes
+Classes.
 Book: Stores book details like title, author, ISBN, and availability status
 
 User (abstract, becuase Teacher and Student have a lot of common things, yet there are some differences): Base class extended by Student and Teacher classes
+
+image.png contains the UML
 
 Library: Handles all book and user management
 
